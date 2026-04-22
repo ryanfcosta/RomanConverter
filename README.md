@@ -1,4 +1,4 @@
-# Roman_Converter
+# Roman Converter
 I made this project based on <a href="https://leetcode.com/problems/roman-to-integer/description/">leetcode 13</a>.<br>
 It was all written in python, so i could create the UI using <a href="https://tkinter.com/">tkinter</a> library.</br>
 The code was converted to an executable file in linux in my machine, i'll add it here sooner with a tutorial of how to download it.
